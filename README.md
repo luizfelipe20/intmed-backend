@@ -20,3 +20,5 @@ Rodar local
 5. docker-compose run web /usr/local/bin/python manage.py migrate
 
 6. docker-compose - up
+
+7. postman: https://www.getpostman.com/collections/e23096e8c1dcecf5ce52
