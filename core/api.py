@@ -43,8 +43,8 @@ class AuthViewSet(viewsets.ModelViewSet):
 
         return Response({
             'token': token.key,
-            'email': token.user.email,
-            'name': token.user.name,
-            'id': token.user.id,
+            'email': user.email,
+            'name': user.name,
+            'id': user.id,
         }, status=status.HTTP_200_OK)
 
