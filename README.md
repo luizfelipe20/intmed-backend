@@ -3,13 +3,12 @@
 
 Backend para agendamento de consultas
 
-Para rodar o projeto 
-docker-compose - up
+1. Clone o projeto
 
+2. docker-compose - up
 
-Depois rode as migrações 
-docker-compose run web /usr/local/bin/python manage.py migrate
+3. ctrl + c
 
+4. docker-compose run web /usr/local/bin/python manage.py migrate
 
-E novamente 
-docker-compose - up
+5. docker-compose - up
