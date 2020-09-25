@@ -1,13 +1,14 @@
 # intmed-backend
 
-
-Admin
-https://clinica-project.herokuapp.com/admin
-usuário: intmed
-password: 123456
-
 Backend para agendamento de consultas
 
+Admin
+1. https://clinica-project.herokuapp.com/admin
+2. usuário: intmed
+3. password: 123456
+
+
+Rodar local
 1. Clone o projeto
 
 2. cd /pasta-do-projeto
